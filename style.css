@@ -1,0 +1,32 @@
+.tabla1{
+    border-collapse: separate;
+    position: relative;
+    left: 25%;
+    border-spacing: 2px;
+    text-indent: initial;
+}
+th, td{
+    border: 1px solid black;
+    margin: 10px;
+}  
+tbody:active{
+    background-color: rgb(245, 255, 61);
+}
+.tabla2{
+    border-collapse: separate;
+    position: relative;
+    left: 25%;
+    border-spacing: 2px;
+}
+.tablas{
+    display: block;
+}
+.tabla3{
+    position: relative;
+    left: 25%;
+}
+.tabla4{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
